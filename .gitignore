@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+venv312/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore data cache
+*.pkl
+*.joblib
+
+# Ignore system and temp files
+.DS_Store
+Thumbs.db
